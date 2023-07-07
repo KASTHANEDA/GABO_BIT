@@ -1,0 +1,37 @@
+
+Que es una rama 
+
+RTA: es como una linea de trabajo donde solo trabajo yo, y que posterio
+se une , evitando daños en mi codigo y en los de los demas
+
+Para que sirven las ramas 
+
+para evitar que modifique o se pierda algun codigo importate,
+me permite ver y programa los cambios 
+
+Cual es la rama predeterminada
+ la rama es la main
+
+Como enumeramos las ramas
+
+con el comando git branch
+
+Como creamos una nueva rama 
+
+lo creamos con $ git branch
+  "NOMBRE DE LA RAMA NUEVA"
+
+************
+Como creamos una nueva rama en el repositorio remoto
+************
+con el comando  git remote add "NOMRE DE RAMA REMOTE"
+realizando el add . y luego ejecutando PUSH
+*********
+Como eliminamos una rama
+con el comando $ git branch -d "nombrede la rama "
+*************
+Como le cambiamos el nombre a una rama
+con el comando $ git branch -m ""NOMBRE NUEVO""
+
+
+*************

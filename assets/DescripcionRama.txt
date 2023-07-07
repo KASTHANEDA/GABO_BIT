@@ -14,7 +14,7 @@ Cual es la rama predeterminada
 
 Como enumeramos las ramas
 
-con el comando git branch
+con el comando git branch.
 
 Como creamos una nueva rama 
 
